@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Massel ✌️</h1>
 
 <h3 align="left">Info</h3>
-<p align="left">
-  🔭 I’m currently working on my final project for my apprenticeship<br>
-  🌱 I’m currently learning Angular 18, Spring Boot
+<p>
+🔭 I’m currently working on my final project for my apprenticeship <br>
+🌱 I’m currently learning Angular 18, Spring Boot
 </p>
 
 <h3 align="left">Languages & Tools</h3>
@@ -36,8 +36,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemassel&show_icons=true&locale=en&layout=compact" alt="codemassel" width="400" height="200"/>
-
-<h3 align="left">Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=codemassel&show_icons=true&locale=en" alt="codemassel" width="400" height="200"/>

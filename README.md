@@ -2,7 +2,7 @@
 
 <h3 align="left">Info</h3>
 <p>
-🔭 I’m currently working on some private projects <br>
+🔭 I’m currently working on some private projects (see pinned) <br>
 🌱 I’m currently learning Angular 18, Spring Boot
 </p>
 

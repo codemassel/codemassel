@@ -2,8 +2,8 @@
 
 <h3 align="left">Info</h3>
 <p>
-🔭 I’m currently working on some small projects to improve <br>
-🌱 I’m currently learning Angular 18, Spring Boot
+🔭 Software developer <br>
+🌱 I’m currently learning Docker & Kubernetes
 </p>
 
 <h3 align="left">Languages & Tools</h3>

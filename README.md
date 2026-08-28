@@ -3,7 +3,7 @@
 <h3 align="left">Info</h3>
 <p>
 🔭 Software developer <br>
-🌱 I’m currently learning Docker & Kubernetes
+🌱 I’m currently learning Playwright
 </p>
 
 <h3 align="left">Languages & Tools</h3>
